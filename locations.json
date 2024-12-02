@@ -1,0 +1,34 @@
+{
+    "source": [
+    ],
+    "destination": {
+        "photos": "",
+        "documents": "",
+        "executables": "",
+        "attachments": "",
+        "audio": ""
+    },
+    "type": {
+        ".jpg": "photos",
+        ".jpeg": "photos",
+        ".svg": "photos",
+        ".png": "photos",
+        ".webp": "photos",
+        ".gif": "attachments",
+        ".mp4": "attachments",
+        ".mov": "attachments",
+        ".avi": "attachments",
+        ".flv": "attachments",
+        ".avchd": "attachments",
+        ".pdf": "documents",
+        ".doc": "documents",
+        ".docx": "documents",
+        ".txt": "documents",
+        ".md": "documents",
+        ".m4a": "audio",
+        ".mp3": "audio",
+        ".wav": "audio",
+        ".exe": "executables",
+        ".bat": "executables"
+    }
+}
